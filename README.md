@@ -81,23 +81,6 @@ The main technique used in this project is **Guided LDA**, a probabilistic text 
 - **Average Recall on Test Data:** 55.15%
 - **Average F1-Score on Test Data:** 48.3%
 
-## Baseline Performance
-
-- **Random Model (Baseline F1-Score):** 12%
-
-## Seed Words for Safety Traits
-
-- **Personal Accountability:** responsibility, accountability, help, support, trained, qualified, etc.
-- **Questioning Attitude:** complacency, challenge, error, risk, trend, unexpected, etc.
-- **Effective Safety Communication:** communication, report, documentation, concern, clear, etc.
-- **Leadership Safety Values and Actions:** leadership, management, policy, resource, oversight, etc.
-- **Decision-Making:** thorough, conservative, process, authority, executive, etc.
-- **Respectful Work Environment:** trust, respect, collaboration, conflict, listening, etc.
-- **Continuous Learning:** learn, training, assessment, improve, skills, develop, etc.
-- **Problem Identification and Resolution:** identify, corrective action, issue, investigation, mitigation, etc.
-- **Environment for Raising Concerns:** harassment, discrimination, report, failure, submit, raise, etc.
-- **Work Processes:** engineering, control, maintenance, procedure, operation, design, etc.
-
 ## Installation
 
 To run the project locally, follow these steps:

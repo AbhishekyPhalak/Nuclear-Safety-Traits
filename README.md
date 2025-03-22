@@ -42,6 +42,10 @@ Several algorithms were explored to extract and classify safety traits:
 
 The main technique used in this project is **Guided LDA**, a probabilistic text clustering algorithm. This model helps classify paragraphs based on a list of seed words associated with safety traits.
 
+### Certificate:
+
+![image](https://github.com/user-attachments/assets/4db63f91-c4f6-4a7a-a06c-8e3b881f5383)
+
 ### Steps:
 1. **Input:** Extracted paragraphs and a list of words associated with each safety trait.
 2. **Process:** The Guided LDA model generates topic distributions from the paragraphs.
